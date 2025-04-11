@@ -1,0 +1,3 @@
+[submodule "opencv-ios-framework"]
+	path = opencv-ios-framework
+	url = https://github.com/heapsheeps/opencv-ios-framework.git

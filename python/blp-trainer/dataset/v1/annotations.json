@@ -1,0 +1,1392 @@
+[
+  {
+    "filename": "20250314_1334-0000-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "L",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0001-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "L",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0001-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1334-0002-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0003-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0003-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1334-0004-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0004-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1334-0005-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "L",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0005-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1334-0006-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0007-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0008-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0009-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0010-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0011-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0011-club.png",
+    "screen": "Club",
+    "path-direction": "None",
+    "aoa-direction": "None",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1334-0012-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0012-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1334-0013-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "L",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0013-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1334-0014-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0015-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0016-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0017-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0018-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0019-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0020-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0021-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1334-0022-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1806-0000-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1806-0001-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1806-0001-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1806-0002-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1806-0002-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1806-0003-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1806-0003-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1806-0004-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1806-0005-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0000-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "L",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0000-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1913-0001-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "L",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0001-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1913-0002-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0002-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1913-0003-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0003-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1913-0004-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0005-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0006-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0007-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0008-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0008-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1913-0009-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0009-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1913-0010-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0010-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1913-0011-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0012-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0013-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0014-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0015-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0016-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0017-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0018-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0019-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0020-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0021-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0022-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0023-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1913-0024-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1925-0000-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1925-0000-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1925-0001-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0000-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0001-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0001-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0002-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0002-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0003-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0003-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0004-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0004-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0005-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0005-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0006-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0007-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0007-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0008-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0008-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0009-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0009-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0010-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0010-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0011-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0012-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0013-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0013-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0014-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "L",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0014-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0015-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0015-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0016-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0016-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0017-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0017-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0018-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0018-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0019-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0019-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0020-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0020-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0021-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0021-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0022-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0022-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0023-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0023-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0024-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0024-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0025-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0026-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0027-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0028-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0029-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0030-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0031-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0032-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0033-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0034-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0035-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0036-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0037-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0038-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0038-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0039-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0039-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0040-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0041-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0041-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0042-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0042-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0043-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0044-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0044-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0045-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0045-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0046-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0047-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0048-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0048-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0049-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "None",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0049-club.png",
+    "screen": "Club",
+    "path-direction": "IN-OUT",
+    "aoa-direction": "UP",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0050-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0050-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0051-ball.png",
+    "screen": "Ball",
+    "hla-direction": "L",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0051-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0052-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0052-club.png",
+    "screen": "Club",
+    "path-direction": "OUT-IN",
+    "aoa-direction": "DOWN",
+    "club-speed-units": "MPH"
+  },
+  {
+    "filename": "20250314_1926-0053-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0054-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0055-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0056-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0057-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0058-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0059-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0060-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0061-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0062-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0063-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0064-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0065-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0066-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0067-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0068-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0069-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0070-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0071-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0072-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  },
+  {
+    "filename": "20250314_1926-0073-ball.png",
+    "screen": "Ball",
+    "hla-direction": "R",
+    "spin-axis-direction": "R",
+    "ball-speed-units": "MPH",
+    "carry-units": "YDS"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "class_labels": [
+    "None",
+    "OUT-IN",
+    "IN-OUT"
+  ],
+  "image_size": [
+    64,
+    32
+  ],
+  "roi": [
+    0.84625,
+    0.3053125,
+    0.14125,
+    0.1025
+  ],
+  "key_name": "path-direction"
+}

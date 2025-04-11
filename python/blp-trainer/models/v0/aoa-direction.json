@@ -1,0 +1,18 @@
+{
+  "class_labels": [
+    "None",
+    "UP",
+    "DOWN"
+  ],
+  "image_size": [
+    64,
+    32
+  ],
+  "roi": [
+    0.8775,
+    0.7265625,
+    0.11125,
+    0.13
+  ],
+  "key_name": "aoa-direction"
+}

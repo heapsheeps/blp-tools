@@ -1,0 +1,18 @@
+{
+  "class_labels": [
+    "L",
+    "None",
+    "R"
+  ],
+  "image_size": [
+    64,
+    32
+  ],
+  "roi": [
+    0.89625,
+    0.2065625,
+    0.07,
+    0.175
+  ],
+  "key_name": "hla-direction"
+}

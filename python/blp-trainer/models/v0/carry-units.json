@@ -1,0 +1,17 @@
+{
+  "class_labels": [
+    "YDS",
+    "None"
+  ],
+  "image_size": [
+    64,
+    32
+  ],
+  "roi": [
+    0.31375,
+    0.7353125,
+    0.14875,
+    0.1075
+  ],
+  "key_name": "carry-units"
+}

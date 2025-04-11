@@ -1,0 +1,53 @@
+# macOS system files
+.DS_Store
+
+# ================================
+# Xcode / iOS (Objective-C) Files
+# ================================
+
+# User-specific files
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+
+# Build generated files
+build/
+DerivedData/
+*.hmap
+
+# Xcode project files
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Workspace settings
+*.xcworkspace
+
+# ================================
+# Python Files
+# ================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints

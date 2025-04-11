@@ -5,7 +5,7 @@
     #define DEBUG_SAVE_SHOT_DATA(image, data, shotNumber) \
         [self DEBUG_saveShotImage:(image) withData:(data) andShotNumber:(shotNumber)]
 #else
-    #define DEBUG_SAVE_SHOT_IMAGE(image, data, shotNumber)
+    #define DEBUG_SAVE_SHOT_DATA(image, data, shotNumber)
 #endif
 
 // Number of same detections required in a row to count as a successful/correct result
